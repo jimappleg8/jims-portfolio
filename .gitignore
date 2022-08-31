@@ -1,4 +1,8 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
 .jekyll-metadata
+assets/js/bundle.js
+node_modules
