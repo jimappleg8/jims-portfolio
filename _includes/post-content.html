@@ -7,10 +7,6 @@
   <a href="{{ post.project_link }}" target="_blank" class="project-link"><button class="btn btn-default btn-lg"><i class="{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>
   {% endif %}
 
-  {% if post.more_link != empty %}
-  <a href="{{ post.more_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="{{post.more_icon}} fa-lg"></i>{{post.more_text}}</button></a>
-  {% endif %}
-
   {% if post.tags != empty %}
   <div class="tags">
     {% for tag in post.tags %}
@@ -19,11 +15,11 @@
   </div>
   {% endif %}
 
-  {% if post.categories != empty %}
+  <!-- {% if post.categories != empty %}
   <div class="categories">
     {% for category in post.categories %}
       <span>{{ category }}</span>
     {% endfor %}
   </div>
-  {% endif %}
+  {% endif %} -->
 </div>
