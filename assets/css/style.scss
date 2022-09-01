@@ -277,6 +277,13 @@ button.btn, input.btn {
   }
 }
 
+a.anchor{
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+}
+
 .content-wrap {
   margin-bottom: 8em;
   @include bp-xsmall {
