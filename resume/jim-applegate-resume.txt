@@ -1,0 +1,71 @@
+Jim Applegate
+Problem-solver and Creator
+
+jimappleg8@gmail.com
+(303) 915-2397 (mobile)
+
+LinkedIn: https://linkedin.com/in/jimappleg8/
+Portfolio: https://jimappleg8.com
+Github: https://github.com/jimappleg8
+
+
+QUALIFICATIONS
+
+Over 20 years of experience in all kinds of web technologies, including:
+• Stacks: LAMP for much of my career, focused now on JAMStack
+• Programming Languages: HTML 5, JavaScript (ES6), CSS/Sass, PHP
+• Back-end Frameworks: Wordpress, Drupal, CodeIgniter, Laravel
+• Libraries & Frameworks: jQuery, Jekyll, Bootstrap
+• Tools and Platforms: Github, Ansible, AWS, Google Cloud, Digital Ocean, Google Analytics, Google Tag Manager, Google Search Console, Various APIs
+• Design: Illustrator, Photoshop, Sketch
+• Best Practices: Responsive & Mobile-first design, Semantic Markup, MVC pattern, JAMstack, Accessibility
+• Currently Learning: React, Angular, MondoDB, Node.js, Unit Testing
+
+
+RELEVANT EXPERIENCE
+
+Creator/Owner @ World That Works, LLC
+Aug 2018 – Present // Broomfield, CO
+• Exploring ways to use web-based open innovation to expand the reach and effectiveness of nonprofits
+• Developing tools and techniques for creating web-based open innovation projects. The current preferred method is Jekyll hosted on Github Pages.
+• Writing a book of 100+ patterns detailing habits of thinking and behavior that can help individuals become more effective changemakers.
+
+Web Systems Manager @ Hain Celestial Group, Inc.
+Jul 2010 – Aug 2018 // Boulder, CO
+• Collaborated within cross-functional teams, including third-party vendors, to find creative, web-based solutions to company needs.
+• Managed a small team of web developers tasked with managing all things web for the company. This included client support, programming, Wordpress development, data management and infrastructure for hosting 50+ websites.
+• Developed tools such as APIs and CMS plugins to help third parties access product and store locator data we managed.
+• Resolved issues that came up as websites were brought in-house, redesigned or otherwise acquired bugs.
+• Integrated all sites with tools like Google Tag Manager, Google Analytics and Google Search Console for SEO.
+• Worked to build a coherent and manageable web and digital strategy across brands and functions.
+
+Web Producer @ Hain Celestial Group, Inc.
+Jul 2001 – Jul 2010 // Boulder, CO
+• Managed design, development, release, and maintenance for 35+ websites.
+• Worked on web related initiatives with 30+ in-company clients.
+• Developed the CMS and development framework used to add functionality to marketing websites. Identified ways to expand the system to optimally use available resources and support marketing initiatives.
+• Managed the integration of over 50 new and existing sites to our hosting environment. Adapted the websites as necessary to run in our platform and integrated them as appropriate with our CMS and development framework.
+• Managed all domain names for the company.
+
+Creative Production Associate @ Celestial Seasonings
+Oct 1995 – Jul 2001 // Boulder, CO
+• Prepared the digital files for creative projects like packaging and displays to ensure they could be printed using traditional printing processes.
+• Helped create the company’s first website as a technical liaison between the designers and the webmaster.
+• Established a series of internal guides and processes designed to provide technical information for creative projects. Trained co-workers in software use and best practices.
+
+
+EDUCATION
+
+University of Colorado
+Bachelor of Environmental Design
+
+
+INTERESTS
+
+Singing, piano, guitar, permaculture, hiking.
+
+
+REFERENCES
+
+Available upon request.
+
